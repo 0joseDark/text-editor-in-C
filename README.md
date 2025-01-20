@@ -1,7 +1,7 @@
 # text editor in C
  - testo editor de 64bits em C
  - Programa básico em C para criar um editor de texto de 64 bits com uma interface gráfica no Windows 10. Usaremos a API do Windows (WinAPI) para desenvolver a interface gráfica. O código inclui funcionalidades básicas, como abrir, criar, modificar, salvar, salvar como, e exibir uma caixa de texto para o caminho do ficheiro.
-### **Passo a Passo**
+
 1. **Criar a Janela Principal**:
    - Registamos uma classe de janela (`WNDCLASS`) e criamos a janela principal.
    - Configuramos o menu com opções como "Novo", "Abrir", "Salvar", "Salvar Como" e "Sair".
@@ -30,7 +30,7 @@
 ---
 ### **Como usar o Dev-C++ para compilar o editor de texto em C**
 
-O Dev-C++ é uma IDE gratuita e leve que facilita a compilação de programas em C/C++. Aqui está um guia passo a passo para compilar e executar o programa do editor de texto no Dev-C++:
+ - O Dev-C++ é uma IDE gratuita e leve que facilita a compilação de programas em C/C++. Aqui está um guia passo a passo para compilar e executar o programa do editor de texto no Dev-C++:
 ---
 #### 1. **Instalar o Dev-C++**
 - Se ainda não tiver o Dev-C++, faça o download a partir de [Bloodshed Dev-C++](https://sourceforge.net/projects/orwelldevcpp/).
