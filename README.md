@@ -1,3 +1,5 @@
+[English](https://github.com/0joseDark/text-editor-in-C/blob/main/English-README.md)
+
 # text editor in C
  - testo editor de 64bits em C
  - Programa básico em C para criar um editor de texto de 64 bits com uma interface gráfica no Windows 10. Usaremos a API do Windows (WinAPI) para desenvolver a interface gráfica. O código inclui funcionalidades básicas, como abrir, criar, modificar, salvar, salvar como, e exibir uma caixa de texto para o caminho do ficheiro.
